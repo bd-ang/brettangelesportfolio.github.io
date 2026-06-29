@@ -7,17 +7,23 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Brett Angeles's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: Brett Angeles
+headline: Mechanical Engineering Portfolio | Mechanical Design • Prototyping • Fabrication • Testing
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This portfolio highlights engineering projects completed throughout my undergraduate studies at the 
+  University of California, San Diego (UCSD), through my work with Tepexpa, and through personal
+  projects. These projects focus on mechanical design, CAD modeling, fabrication, prototype development,
+  testing, and iterative design improvements. The work presented reflects my interest in designing,
+  building, testing, and refining mechanical systems throughout the engineering development process.
+
+  B.S. Mechanical Engineering - Specialization in Controls & Robotics | UC San Diego
+  Mechanical Design • CAD • Fabrication • Prototype Testing
+  SolidWorks • Fusion 360 • AutoCAD • Autodesk Revit • MATLAB
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
